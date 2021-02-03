@@ -91,9 +91,17 @@ section {
   margin-bottom: 100px;
 }
 
+div.list {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5em;
+  margin-bottom: 0;
+}
+
 div.projects {
   text-align: center;
 }
+
 div.picture {
   width: 30%
 }
